@@ -1,4 +1,4 @@
-👋 Hi, I’m @Maira447
+👋 Hi, I’m @MairaZafar
 👀 I’m interested in app development.
 🌱 I’m currently learning Flutter, AI, and ML.
 💞️ I’m looking to collaborate on different opportunities related to tech.
